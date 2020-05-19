@@ -6,11 +6,11 @@
 spring:
   profiles: dev #开发环境
   application:
-    name: microservicecloud-config-liu-dev
+    name: sprpingcloudmicro-config-liu-dev
     
 ---
 spring:
   profiles: test #测试环境
   application:
-    name: microservicecloud-config-liu-test
+    name: sprpingcloudmicro-config-liu-test
 #请保存为UTF-8格式
